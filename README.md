@@ -5,7 +5,7 @@ Hi Jayne! Thank you for looking into this. Here's some files that might be usefu
 **nizaiwozai_20230309_combined_20230815.mp3** --> 4. and computer generated audio, generated from 2 again.<br>
 **nizaiwozai_20230309_combined_20230815.mscz** --> 2. my attempt to turn it into a piano solo. mscz is a Musescore 3 file (a music notation program). may require installing the program.<br>
 **nizaiwozai_20230309_combined_20230815.pdf** --> 3. in case you can't install musescore, here's a pdf generated from file 2. <br>
-**nizaiwozai_piano_1-54.mp3**--> 5. the dynamics of 2 aren't well notated so the music generated(4) doesn't sound quite right. so I recorded bar 1-54. just to have a brief idea of what the final thing might sound like<br>
+**nizaiwozai_piano_1-54.mp3**--> 5. the dynamics of 2 aren't well notated so the music generated(4) doesn't sound quite right. so I recorded bar 1-54. just to have a brief idea of what I hope the final thing might sound like<br>
 **nizaiwozai_voiceremoved.mp3** --> 1. original music but with dialogues removed. Just singing vocal + bgm<br>
 <br>
 <br>
